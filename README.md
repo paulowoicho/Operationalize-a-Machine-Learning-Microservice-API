@@ -10,7 +10,7 @@ You can find the following files in this repository:
 - `Makefile`: Defines a set of takes to be executed to install, lint, and test the project
 - `app.py`: contains the code that makes predictions based on input
 - `Dockerfile`: builds a docker container
-- `*.sh`: utilty scripts to run the project on docker/kubernetes or upload images to Docker
+- `*.sh`: utilty scripts to run the project on docker/kubernetes, make predictions,ud or upload images to Docker
 
 ---
 
